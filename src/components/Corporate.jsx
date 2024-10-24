@@ -25,7 +25,7 @@ export const Corporate = () => {
   return (
     <div className="bg-white py-12 mx-40">
       {/* Header Section */}
-      <div className="text-center mb-12">
+      {/* <div className="text-center mb-12">
         <h4 className="text-sm font-medium text-blue-600">OF CORPORATE</h4>
         <h2 className="text-4xl font-bold text-gray-900 capitalize">
           Offering a deep understanding
@@ -33,7 +33,7 @@ export const Corporate = () => {
         <p className="text-gray-600">
           Working with trusted global experts who know your operating model.
         </p>
-      </div>
+      </div> */}
 
       {/* Carousel Section */}
       <Carousel

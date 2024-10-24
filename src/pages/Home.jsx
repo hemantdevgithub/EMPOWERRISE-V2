@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <div className="space-y-5  relative">
       <CommonBanner image={"homebanner.jpg"} text="" />
-      <div className="w-[30rem] px-10 flex flex-col justify-center space-y-4 h-[21rem] rounded-md bg-white absolute left-[10%] inset-0 top-[2%] lg:top-[4%]">
+      <div className="lg:w-[30rem] w-fit px-10 flex flex-col justify-center space-y-4  h-[21rem] rounded-md bg-white  bg-opacity-70 lg:bg-opacity-100 absolute lg:left-[10%] inset-0 top-[2%] lg:top-[4%]">
         <p className="text-sm">WE WORK TOGETHER</p>
         <h1 className="font-bold text-4xl">EmpoweRRise</h1>
         <p className="text-sm capitalize">
